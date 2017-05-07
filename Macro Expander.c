@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<stdbool.h>
 	
 bool yes = true;		//idk why
 bool present = false; 	//for macro name printing
